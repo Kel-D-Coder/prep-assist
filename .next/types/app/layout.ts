@@ -1,4 +1,4 @@
-// File: C:\Users\okolo\Desktop\perp_assist\app\layout.tsx
+// File: C:\Users\okolo\Desktop\prep_assist\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

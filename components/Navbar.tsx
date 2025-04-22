@@ -9,7 +9,7 @@ const Navbar = () => {
 
   const navigation = [
     { name: 'Home', href: '/' },
-    { name: 'Practice', href: '/practice' },
+    { name: 'Tools', href: '/tools' },
     { name: 'Dashboard', href: '/dashboard' },
     { name: 'Pricing', href: '/pricing' },
   ]
@@ -21,7 +21,7 @@ const Navbar = () => {
           <div className="flex">
             <div className="flex-shrink-0 flex items-center">
               <Link href="/" className="text-2xl font-bold text-primary-600">
-                TechInterviewAI
+                PrepAssist
               </Link>
             </div>
             <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
